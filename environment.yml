@@ -1,4 +1,4 @@
-name: Data_Science
+name: Assignments_and_Assessments
 channels:
 - defaults
 dependencies:         # everything under this, installed by conda
@@ -13,8 +13,10 @@ dependencies:         # everything under this, installed by conda
 - jupyter==1.0.0
 - beautifulsoup4
 - requests==2.21.0
-- lxml==4.1.0
-- patsy==0.4.1
-- beautifulsoup4==4.7.1
-- seaborn==0.8.1
+- lxml
 - nltk==3.4
+- pydotplus==2.0.2
+- graphviz
+- networkx==2.0
+- py4j
+- pypdf2
