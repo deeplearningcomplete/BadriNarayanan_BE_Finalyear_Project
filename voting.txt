@@ -1,0 +1,13 @@
+First polling official will check your name on the voter list and check your ID proof.
+Second polling official will ink your finger, give you a slip and take your signature on a register (Form 17A).
+
+You will have to deposit the slip at the third polling official and show your inked finger and then proceed to the polling booth.
+Record your vote by pressing the ballot button opposite the symbol of the candidate of your choice on the Electronic Voting 
+Machine (EVM); You will hear a beep sound.
+
+Check the slip that appears in the transparent window of the VVPAT machine. 
+The slip with the Candidate serial No., Name and Symbol shall be visible for 7 seconds before it 
+drops in the sealed VVPAT box
+You can press NOTA, None of the Above, if you don't like any candidate; it's the last button on the EVM.
+For more information, please see the Voter Guide on http://ecisveep.nic.in/.
+Mobile phones, cameras or any other gadget is not allowed inside a polling booth.
